@@ -46,6 +46,4 @@ Here are a few notable projects I've built:
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Akashe123&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashe123&layout=compact&theme=dark)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashe123&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
+![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashe123&theme=2077)
