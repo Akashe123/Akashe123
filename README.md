@@ -44,7 +44,8 @@ Here are a few notable projects I've built:
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akashe123&show_icons=true&theme=dark" alt="Akash's GitHub Stats" width="48%" />
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Akashe123&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashe123&layout=compact&theme=dark)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashe123&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
