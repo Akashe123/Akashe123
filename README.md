@@ -9,7 +9,7 @@
 ---
 
 ### 🌐 Socials & Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]((https://portfolio-wine-nine-13.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/akash-e-05187331autm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/akash-e-05187331a?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
