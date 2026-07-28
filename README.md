@@ -44,6 +44,10 @@ Here are a few notable projects I've built:
 
 ### 📊 GitHub Activity & Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashe123&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akashe123&theme=dark&cache_seconds=86400)
 
-![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashe123&theme=2077)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashe123&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashe123&theme=2077)
