@@ -44,6 +44,6 @@ Here are a few notable projects I've built:
 
 ### 📊 GitHub Activity & Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Akashe123&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Akashe123&theme=dark&cache_seconds=86400)
 
 ![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashe123&theme=2077)
