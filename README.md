@@ -8,6 +8,9 @@
 
 <br/><br/>
 
+![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-ML%20%2B%20FULL--STACK-2C5364?style=for-the-badge)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-0F2027?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wine-nine-13.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-e-05187331a/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashe830@gmail.com)
@@ -51,6 +54,14 @@
 
 <br/>
 
+## 🎯 What I'm Looking For
+
+- 💼 **Roles:** Internships and entry-level positions in **Machine Learning, Data, or Full-Stack Development**
+- 🌍 **Environment:** Teams that value clean code, ownership, and learning on the job
+- 🚀 **Goal:** Apply ML and web engineering to products with real users and measurable impact
+
+<br/>
+
 ## ⭐ Featured Projects
 
 <table>
@@ -86,13 +97,32 @@ An interactive web application for scheduling, room booking, and resource manage
 </tr>
 </table>
 
-### 🧩 More Work
+<details>
+<summary><b>🧩 See more projects</b></summary>
+
+<br/>
 
 | Project | What it does | Tech |
 |:--|:--|:--|
 | 📊 [excel-dashboard-builder](https://github.com/Akashe123/excel-dashboard-builder) | Interactive tool to build dynamic dashboard visuals from Excel data | `JavaScript` `HTML` `CSS` |
 | 🎨 [Pixel-Art-Maker](https://github.com/Akashe123/Pixel-Art-Maker) | Lightweight app to design and export custom grid-based pixel art | `JavaScript` `HTML` `CSS` |
 | 🖼️ [create-a-gif-with-python](https://github.com/Akashe123/create-a-gif-with-python) | Automation script that converts image sequences into animated GIFs | `Python` `PIL` |
+
+</details>
+
+<br/>
+
+## ⚙️ How I Build
+
+```mermaid
+flowchart LR
+    A[Understand the problem] --> B[Collect and clean data]
+    B --> C[Train and evaluate model]
+    C --> D[Expose via FastAPI]
+    D --> E[Build usable front end]
+    E --> F[Test, measure, iterate]
+    F -.-> B
+```
 
 <br/>
 
@@ -114,6 +144,14 @@ An interactive web application for scheduling, room booking, and resource manage
 | **Backend and APIs** | FastAPI |
 | **Machine Learning** | Scikit-learn |
 | **Tools** | Git, GitHub, VS Code |
+
+<br/>
+
+## 🌱 Currently Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-in%20progress-2C5364?style=flat-square&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-in%20progress-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Web Architecture](https://img.shields.io/badge/Scalable%20Web%20Architecture-in%20progress-203A43?style=flat-square)
 
 <br/>
 
@@ -155,6 +193,14 @@ An interactive web application for scheduling, room booking, and resource manage
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akashe123&theme=2077&cache_seconds=86400" alt="Repos per language" />
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akashe123&theme=2077&cache_seconds=86400" alt="Most committed language" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashe123&theme=react-dark&hide_border=true&bg_color=0d1117&color=36BCF7&line=2C9CDB&point=ffffff" alt="Contribution activity graph" width="95%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akashe123&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+
 </div>
 
 <br/>
@@ -168,6 +214,8 @@ I'm actively looking for opportunities where I can contribute, learn, and grow. 
 [![Email](https://img.shields.io/badge/akashe830%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashe830@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/akash--e-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-e-05187331a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-wine-nine-13.vercel.app/)
+
+<sub>⭐ Thanks for visiting my profile</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer" width="100%" />
 
