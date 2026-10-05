@@ -37,8 +37,8 @@ I care about clean code, measurable results, and shipping things that people can
 ## ⭐ Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🏏 [Cric_TR](https://github.com/Akashe123/Cric_TR)
 **Cricket Analytics Engine**
@@ -49,8 +49,8 @@ An end-to-end machine learning system that predicts match outcomes and player pe
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 📚 [ClassroomBook](https://github.com/Akashe123/classroombook)
 **Campus Scheduling & Resource Platform**
@@ -61,11 +61,9 @@ An interactive web application for scheduling, room booking, and resource manage
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-
-### More Work
 
 | Project | What it does | Tech |
 |---|---|---|
