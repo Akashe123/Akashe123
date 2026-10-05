@@ -163,6 +163,29 @@ An interactive web application for scheduling, room booking, and resource manage
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B8793,100:38EF7D&height=2" width="100%" alt="divider" />
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Akashe123&background=0D1117&ring=38EF7D&fire=38EF7D&currStreakLabel=38EF7D&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
+
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashe123&theme=github_dark&cache_seconds=86400" alt="Profile details" />
+
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akashe123&theme=github_dark&cache_seconds=86400" alt="Repos per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akashe123&theme=github_dark&cache_seconds=86400" alt="Most committed language" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashe123&bg_color=0D1117&color=38EF7D&line=11998E&point=FFFFFF&area=true&area_color=11998E&hide_border=true" alt="Contribution activity graph" width="95%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B8793,100:38EF7D&height=2" width="100%" alt="divider" />
+
 ## 📬 Let's Work Together
 
 I'm looking for internships and entry-level roles in **Machine Learning, Data, and Full-Stack Development**. If you're hiring or want to collaborate, I'd love to hear from you.
