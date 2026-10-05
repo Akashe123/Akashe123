@@ -155,12 +155,12 @@ An interactive web application for scheduling, room booking, and resource manage
 
 <br/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashe123&theme=vue_dark&cache_seconds=86400" alt="Profile details" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashe123&theme=github_dark&cache_seconds=86400" alt="Profile details" />
 
 <br/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akashe123&theme=vue_dark&cache_seconds=86400" alt="Repos per language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akashe123&theme=vue_dark&cache_seconds=86400" alt="Most committed language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akashe123&theme=github_dark&cache_seconds=86400" alt="Repos per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akashe123&theme=github_dark&cache_seconds=86400" alt="Most committed language" />
 
 <br/>
 
