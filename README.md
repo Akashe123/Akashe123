@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Akash%20E&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Machine%20Learning%20%26%20Full-Stack%20Development&descAlignY=58&descSize=18" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Akash%20E&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20Machine%20Learning%20and%20Full-Stack%20Development&descAlignY=58&descSize=18" alt="Header banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+data-driven+products+with+ML;Turning+ideas+into+scalable+web+applications;Python+%7C+FastAPI+%7C+JavaScript+%7C+Scikit-learn" alt="Typing animation" />
