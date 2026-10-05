@@ -147,24 +147,17 @@ An interactive web application for scheduling, room booking, and resource manage
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B8793,100:38EF7D&height=2" width="100%" alt="divider" />
 
-## 📊 GitHub Analytics
+## 📊 Project Snapshot
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Akashe123&background=0D1117&ring=38EF7D&fire=38EF7D&currStreakLabel=38EF7D&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&hide_border=true&cache_seconds=86400" alt="GitHub streak" />
+<img src="https://img.shields.io/github/languages/top/Akashe123/Cric_TR?label=Cric_TR&style=for-the-badge&color=11998E" alt="Cric_TR top language" />
+<img src="https://img.shields.io/github/last-commit/Akashe123/Cric_TR?label=Last%20Commit&style=for-the-badge&color=0B8793" alt="Cric_TR last commit" />
 
 <br/>
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akashe123&theme=github_dark&cache_seconds=86400" alt="Profile details" />
-
-<br/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akashe123&theme=github_dark&cache_seconds=86400" alt="Repos per language" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akashe123&theme=github_dark&cache_seconds=86400" alt="Most committed language" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akashe123&bg_color=0D1117&color=38EF7D&line=11998E&point=FFFFFF&area=true&area_color=11998E&hide_border=true" alt="Contribution activity graph" width="95%" />
+<img src="https://img.shields.io/github/languages/top/Akashe123/classroombook?label=ClassroomBook&style=for-the-badge&color=11998E" alt="ClassroomBook top language" />
+<img src="https://img.shields.io/github/last-commit/Akashe123/classroombook?label=Last%20Commit&style=for-the-badge&color=0B8793" alt="ClassroomBook last commit" />
 
 </div>
 
